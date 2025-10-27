@@ -1,3 +1,7 @@
+NAME: GOPIKA A
+
+REG NO: 212224100017
+
 # EXP-4
 EXP. NO. 4. 		HALFWAVE  AND FULL WAVE  RECTIFIERS
 
@@ -38,14 +42,33 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
-Bridge rectifier with filter:
+<img width="929" height="435" alt="Screenshot 2025-10-12 152539" src="https://github.com/user-attachments/assets/cbd1e988-ccb4-4ed5-9e5c-79bca1871378" />
+
+full wave rectifier with filter:
+
+<img width="926" height="614" alt="Screenshot 2025-10-12 152600" src="https://github.com/user-attachments/assets/f6481b18-bb14-4b70-ab97-476fbd7d5ee8" />
 
 TABULAR COLUMN
 Rectifier without filter
+
+![WhatsApp Image 2025-10-27 at 10 20 03_d4552fae](https://github.com/user-attachments/assets/8f08e82d-7deb-45c2-893a-f5ca33a47846)
+
+
 TABULAR COLUMN
 Rectifier with filter
 
+![WhatsApp Image 2025-10-27 at 10 20 03_5ee2a488](https://github.com/user-attachments/assets/7a9f6a92-acdd-485a-930d-712080fdd9d3)
+
+
 WAVEFORM:
+
+half wave rectifier with filter:
+
+<img width="1034" height="544" alt="image" src="https://github.com/user-attachments/assets/1da26ad2-6aeb-4835-9906-53b4b6508eb5" />
+
+full wave rectifier with filter:
+
+<img width="1037" height="546" alt="image" src="https://github.com/user-attachments/assets/099bfff5-ce5a-4c50-8331-fa474f668fd3" />
 
 
 RESULT:
