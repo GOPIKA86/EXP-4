@@ -57,7 +57,7 @@ Rectifier without filter
 TABULAR COLUMN
 Rectifier with filter
 
-![WhatsApp Image 2025-10-27 at 10 20 03_5ee2a488](https://github.com/user-attachments/assets/7a9f6a92-acdd-485a-930d-712080fdd9d3)
+![WhatsApp Image 2025-10-27 at 13 15 59_de47225b](https://github.com/user-attachments/assets/1d1f4e5c-1143-480c-bd7d-2852ae054f51)
 
 
 WAVEFORM:
